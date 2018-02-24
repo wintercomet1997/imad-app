@@ -5,6 +5,6 @@ var element=document.getElementById("main-text");
  //move the image
  var img=document.getElementById("main-madi");
  img.onclick=function(){
-     img.style.marginleft="100px";
+     img.style.marginLeft="100px";
      
  }
