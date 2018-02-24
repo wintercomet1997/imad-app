@@ -11,7 +11,7 @@ var element=document.getElementById("main-text");
      img.style.marginLeft=marginLeft+"px";
  }
  img.onclick=function(){
-     var interval=setInterval(moveRight,50);
+     var interval=setInterval(moveRight,500);
     
      
  }
